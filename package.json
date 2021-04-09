@@ -13,7 +13,7 @@
   "license": "MIT",
   "dependencies": {
     "express": "^4.17.1",
-    "mongoose": "^5.10.0",
+    "mongoose": "^5.12.3",
     "supertest": "^4.0.2"
   },
   "devDependencies": {
